@@ -77,7 +77,8 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
-### ᏆᎷᏢϴΝͲᎪΝͲ
+### IMPORTANT
 
-»
- Yᴏᴜ Cᴀɴ Usᴇ: `ᴊᴜʟɪᴇᴍᴡᴏʟ - sᴇssᴏɪɴ`  ‹‹
+» Yᴏᴜ Cᴀɴ Usᴇ: `ᴊᴜʟɪᴇᴍᴡᴏʟ - sᴇssᴏɪɴ`  ‹‹
+• You Can Use: `Juliemwol - Session`
+
