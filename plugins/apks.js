@@ -286,6 +286,6 @@ Asena.addCommand({pattern: 'capcut', fromMe: false, dontAddCommandList: true}, (
    }));
 
    Asena.addCommand({pattern: 'waplus', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
-      await message.sendMessage('💎 *WHATSAPP PLUS* 💎\nmhatsapp mod.\n📌 bit.ly/drkWaPlus');
+      await message.sendMessage('💎 *WHATSAPP PLUS* 💎\nwhatsapp mod.\n📌 bit.ly/drkWaPlus');
    }));
 }
