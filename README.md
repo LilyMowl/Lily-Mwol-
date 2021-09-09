@@ -80,5 +80,6 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### IMPORTANT
 
 » Yᴏᴜ Cᴀɴ Usᴇ: `ᴊᴜʟɪᴇᴍᴡᴏʟ - sᴇssᴏɪɴ`  ‹‹
+
 • You Can Use: `Juliemwol - Session`
 
